@@ -3,7 +3,8 @@ public class Atividade3 {
         int a = 13;
         if (a % 2 == 0) {
             System.out.println("Seu numero é par");
-        } else {
+        }
+        else {
             System.out.println("Seu número é impar");
         }
 
